@@ -1,0 +1,19 @@
+.jumbotron{
+    margin-bottom: 0;
+}
+.footer{
+    background-color: aqua;
+    text-align: center;
+    padding: 15px;
+    color: black;
+}
+
+.col-lg-3{
+    background-color: aqua;
+    height: 400px;
+    width: 20%;
+   
+}
+.col-lg-9{
+    width: 80%;
+}
